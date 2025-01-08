@@ -1,0 +1,1 @@
+FROM registry.cn-hangzhou.aliyuncs.com/dachunkai/bitahub_basic_py37_torch110_nv111_anony:latest
